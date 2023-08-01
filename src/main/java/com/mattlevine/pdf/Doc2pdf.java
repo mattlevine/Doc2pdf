@@ -1,17 +1,9 @@
-package com.blueriver.pdf;
+package com.mattlevine.pdf;
 
 import org.apache.poi.xwpf.usermodel.XWPFDocument;
 
 import fr.opensagres.poi.xwpf.converter.pdf.PdfConverter;
 import fr.opensagres.poi.xwpf.converter.pdf.PdfOptions;
-
-import org.apache.tika.Tika;
-import org.apache.tika.exception.TikaException;
-import org.apache.pdfbox.pdmodel.PDDocument;
-import org.apache.pdfbox.pdmodel.PDPage;
-import org.apache.pdfbox.pdmodel.PDPageContentStream;
-import org.apache.pdfbox.pdmodel.common.PDRectangle;
-import org.apache.pdfbox.pdmodel.font.PDType1Font;
 
 import java.io.*;
 

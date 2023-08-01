@@ -1,4 +1,4 @@
-package com.blueriver.pdf;
+package com.mattlevine.pdf;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
