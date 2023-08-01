@@ -1,3 +1,3 @@
 # doc2pdf
 
-Install maven and run 'mvn package' int the terminal.
+Install maven and run 'mvn package' in the terminal.
